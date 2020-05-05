@@ -1,0 +1,2372 @@
+[
+    {
+        "name": "Aardbeien Lambic St. Louis",
+        "brewery": "Van Honsebrouck",
+        "color": "red",
+        "vol": "5.00"
+    },
+    {
+        "name": "Aarschotse Brown",
+        "brewery": "De Biertoren",
+        "color": "brown",
+        "vol": "4.00"
+    },
+    {
+        "name": "Abbaye de Bonne-Esperance",
+        "brewery": "Lefebvre",
+        "color": "amber",
+        "vol": "8.00"
+    },
+    {
+        "name": "Abbaye de Cambron",
+        "brewery": "Brasserie de Silly",
+        "color": "amber",
+        "vol": "6.50"
+    },
+    {
+        "name": "Abbaye de Gembloux",
+        "brewery": "Lefebvre",
+        "color": "amber",
+        "vol": "8.00"
+    },
+    {
+        "name": "Abbaye de la Moinette brune",
+        "brewery": "Dupont",
+        "color": "brown",
+        "vol": "8.50"
+    },
+    {
+        "name": "Abbaye de la Moinette brune",
+        "brewery": "Dupont",
+        "color": "brown",
+        "vol": "7.50"
+    },
+    {
+        "name": "Abbaye de la Moinette-Special Nouvel An",
+        "brewery": "Dupont",
+        "color": "amber",
+        "vol": "8.50"
+    },
+    {
+        "name": "Abbaye de Leffe Brown",
+        "brewery": "St. Guibert",
+        "color": "brown",
+        "vol": "6.30"
+    },
+    {
+        "name": "Abbaye de Leffe radieuse",
+        "brewery": "St. Guibert",
+        "color": "dark brown",
+        "vol": "8.60"
+    },
+    {
+        "name": "Abbaye de Leffe trippel",
+        "brewery": "St. Guibert",
+        "color": "brown",
+        "vol": "7.10"
+    },
+    {
+        "name": "Abbaye de Leffe vieille cuvée",
+        "brewery": "St. Guibert",
+        "color": "brown",
+        "vol": "7.80"
+    },
+    {
+        "name": "Abbaye des Rocs",
+        "brewery": "Eloir-Bertiau",
+        "color": "amber",
+        "vol": "9.25"
+    },
+    {
+        "name": "Abbaye de Leffe brown",
+        "brewery": "St. Guibert",
+        "color": "amber",
+        "vol": "6.30"
+    },
+    {
+        "name": "Abdijbier Affligem brown",
+        "brewery": "De Smedt",
+        "color": "brown",
+        "vol": "6.90"
+    },
+    {
+        "name": "Abdijbier Affligem dark",
+        "brewery": "De Smedt",
+        "color": "dark",
+        "vol": "6.90"
+    },
+    {
+        "name": "Abdijbier Affligem trippel",
+        "brewery": "De Smedt",
+        "color": "amber",
+        "vol": "9.60"
+    },
+    {
+        "name": "Abdijbier Sint-Idesbald brown",
+        "brewery": "Damberd",
+        "color": "brown",
+        "vol": "6.25"
+    },
+    {
+        "name": "Abdijbier Sint-Idesbald pale",
+        "brewery": "Damberd",
+        "color": "brown",
+        "vol": "6.25"
+    },
+    {
+        "name": "Abdijbier Sint-Idesbald trippel",
+        "brewery": "Damberd",
+        "color": "brown",
+        "vol": "8.00"
+    },
+    {
+        "name": "Adler",
+        "brewery": "Haacht",
+        "color": "golden",
+        "vol": "6.70"
+    },
+    {
+        "name": "Aerts 1900",
+        "brewery": "Palm",
+        "color": "amber-red",
+        "vol": "6.00"
+    },
+    {
+        "name": "Affligem red",
+        "brewery": "De Smedt",
+        "color": "red",
+        "vol": "6.70"
+    },
+    {
+        "name": "Akila Pils",
+        "brewery": "Louwaege",
+        "color": "brown",
+        "vol": "5.00"
+    },
+    {
+        "name": "Anglo pils",
+        "brewery": "Alken-Maes",
+        "color": "brown",
+        "vol": "5.00"
+    },
+    {
+        "name": "Antiek",
+        "brewery": "Isebaert",
+        "color": "amber",
+        "vol": "7.75"
+    },
+    {
+        "name": "Arabier",
+        "brewery": "De Dolle Brouwers",
+        "color": "dark brown",
+        "vol": "8.00"
+    },
+    {
+        "name": "Artevelde",
+        "brewery": "Huyghe",
+        "color": "amber",
+        "vol": "6.50"
+    },
+    {
+        "name": "Augustijn",
+        "brewery": "Bios",
+        "color": "amber",
+        "vol": "8.00"
+    },
+    {
+        "name": "Bacchus",
+        "brewery": "Van Honsebrouck",
+        "color": "dark brown",
+        "vol": "5.20"
+    },
+    {
+        "name": "Bass-Old Barley Stout",
+        "brewery": "Piedboeuf",
+        "color": "dark",
+        "vol": "5.40"
+    },
+    {
+        "name": "Bass-Pale Ale",
+        "brewery": "Piedboeuf",
+        "color": "golden",
+        "vol": "5.20"
+    },
+    {
+        "name": "Bergenbier",
+        "brewery": "Dendria",
+        "color": "brown",
+        "vol": "5.10"
+    },
+    {
+        "name": "Bière Darbyste",
+        "brewery": "Brasserie de Blaugies",
+        "color": "white",
+        "vol": "5.80"
+    },
+    {
+        "name": "Biere de L'Abbaye D'Aulne 10",
+        "brewery": "De Smedt",
+        "color": "very dark",
+        "vol": "10.00"
+    },
+    {
+        "name": "Biere de L'Abbaye D'Aulne 6",
+        "brewery": "De Smedt",
+        "color": "golden",
+        "vol": "6.00"
+    },
+    {
+        "name": "Biere de L'Abbaye D'Aulne 8",
+        "brewery": "De Smedt",
+        "color": "dark",
+        "vol": "8.00"
+    },
+    {
+        "name": "Bios Vlaamse Bourgogne",
+        "brewery": "Bios",
+        "color": "dark",
+        "vol": "5.75"
+    },
+    {
+        "name": "Biss",
+        "brewery": "Brasserie a Vapeur",
+        "color": "brown",
+        "vol": "7.50"
+    },
+    {
+        "name": "Blanche de Namur",
+        "brewery": "Brasserie du Bocq",
+        "color": "white",
+        "vol": "4.50"
+    },
+    {
+        "name": "Blanche des Honelles",
+        "brewery": "Eloir-Bertiau",
+        "color": "white",
+        "vol": "6.20"
+    },
+    {
+        "name": "Block Export",
+        "brewery": "De Block-Joostens",
+        "color": "brown",
+        "vol": "5.00"
+    },
+    {
+        "name": "Block Pils",
+        "brewery": "De Block-Joostens",
+        "color": "brown",
+        "vol": "5.00"
+    },
+    {
+        "name": "Blond",
+        "brewery": "De Biertoren",
+        "color": "brown",
+        "vol": "1.00"
+    },
+    {
+        "name": "Blonde Alken",
+        "brewery": "Alken-Maes",
+        "color": "brown",
+        "vol": "1.40"
+    },
+    {
+        "name": "Bocholter Kwikpils Premiumbier",
+        "brewery": "Martens",
+        "color": "brown",
+        "vol": "5.00"
+    },
+    {
+        "name": "Bocholter pils",
+        "brewery": "Martens",
+        "color": "brown",
+        "vol": "5.00"
+    },
+    {
+        "name": "Bock pils",
+        "brewery": "Palm",
+        "color": "brown",
+        "vol": "4.80"
+    },
+    {
+        "name": "Bockor export",
+        "brewery": "Bockor (Vanderghinste)",
+        "color": "brown",
+        "vol": "5.00"
+    },
+    {
+        "name": "Bockor pils",
+        "brewery": "Bockor (Vanderghinste)",
+        "color": "brown",
+        "vol": "5.40"
+    },
+    {
+        "name": "Bokkereyer",
+        "brewery": "Sint-Jozef",
+        "color": "dark brown",
+        "vol": "6.00"
+    },
+    {
+        "name": "Bornem Dubbel",
+        "brewery": "Bios",
+        "color": "dark",
+        "vol": "8.00"
+    },
+    {
+        "name": "Bornem Trippel",
+        "brewery": "Bios",
+        "color": "pale",
+        "vol": "9.00"
+    },
+    {
+        "name": "Boskeun",
+        "brewery": "De Dolle Brouwers",
+        "color": "amber",
+        "vol": "8.00"
+    },
+    {
+        "name": "Bourgogne des Flandres",
+        "brewery": "Timmermans",
+        "color": "brown",
+        "vol": "5.00"
+    },
+    {
+        "name": "Bourgogne des Flandres",
+        "brewery": "Verhaeghe",
+        "color": "dark",
+        "vol": "6.20"
+    },
+    {
+        "name": "Brigand",
+        "brewery": "Van Honsebrouck",
+        "color": "amber",
+        "vol": "9.00"
+    },
+    {
+        "name": "Brug-ale Belge",
+        "brewery": "Brasserie de Silly",
+        "color": "amber",
+        "vol": "4.80"
+    },
+    {
+        "name": "Brugs tarwebier",
+        "brewery": "De Gouden Boom",
+        "color": "white",
+        "vol": "5.40"
+    },
+    {
+        "name": "brownhaut 8",
+        "brewery": "Allard & Groetembril",
+        "color": "brown",
+        "vol": "8.00"
+    },
+    {
+        "name": "Bruno",
+        "brewery": "De Biertoren",
+        "color": "brown",
+        "vol": "0.80"
+    },
+    {
+        "name": "Buffalo",
+        "brewery": "Van Den Bossche",
+        "color": "noire",
+        "vol": "5.10"
+    },
+    {
+        "name": "Bush Beer",
+        "brewery": "Dubuisson",
+        "color": "amber",
+        "vol": "9.75"
+    },
+    {
+        "name": "Cambrinus",
+        "brewery": "Verhaeghe",
+        "color": "amber",
+        "vol": "4.50"
+    },
+    {
+        "name": "Caves",
+        "brewery": "Verhaeghe",
+        "color": "amber",
+        "vol": "5.35"
+    },
+    {
+        "name": "Charles Quint",
+        "brewery": "Haacht",
+        "color": "dark",
+        "vol": "6.30"
+    },
+    {
+        "name": "Chimay 'Premiere'",
+        "brewery": "Abbaye de Scourmont",
+        "color": "amber",
+        "vol": "7.00"
+    },
+    {
+        "name": "Chimay Red Cap",
+        "brewery": "Abbaye de Scourmont",
+        "color": "brown",
+        "vol": "7.00"
+    },
+    {
+        "name": "Chimay White Cap",
+        "brewery": "Abbaye de Scourmont",
+        "color": "clear",
+        "vol": "8.00"
+    },
+    {
+        "name": "Chimay Blue Cap",
+        "brewery": "Abbaye de Scourmont",
+        "color": "dark red",
+        "vol": "9.00"
+    },
+    {
+        "name": "Chimay 500ieme",
+        "brewery": "Abbaye de Scourmont",
+        "color": "light brown",
+        "vol": "8.00"
+    },
+    {
+        "name": "Chimay Grande Reserve",
+        "brewery": "Abbaye de Scourmont",
+        "color": "dark red",
+        "vol": "9.00"
+    },
+    {
+        "name": "Christmas",
+        "brewery": "Riva",
+        "color": "dark",
+        "vol": "7.50"
+    },
+    {
+        "name": "Christmas Bell",
+        "brewery": "Roman",
+        "color": "brown",
+        "vol": "7.20"
+    },
+    {
+        "name": "Christmas De Ryck",
+        "brewery": "De Ryck",
+        "color": "amber",
+        "vol": "5.50"
+    },
+    {
+        "name": "Christmas/Old Musketeer",
+        "brewery": "Het Sas/Leroy",
+        "color": "dark",
+        "vol": "8.00"
+    },
+    {
+        "name": "Ciney Blond",
+        "brewery": "Alken-Maes",
+        "color": "brown",
+        "vol": "7.00"
+    },
+    {
+        "name": "Ciney Brown",
+        "brewery": "Alken-Maes",
+        "color": "brown",
+        "vol": "7.00"
+    },
+    {
+        "name": "Contra Pils",
+        "brewery": "Contreras",
+        "color": "brown",
+        "vol": "5.00"
+    },
+    {
+        "name": "Cornel Bier",
+        "brewery": "Slaghmuylder",
+        "color": "amber",
+        "vol": "4.80"
+    },
+    {
+        "name": "Corsendonck Agnus",
+        "brewery": "Corsendonck",
+        "color": "brown",
+        "vol": "7.50"
+    },
+    {
+        "name": "Corsendonck Pater",
+        "brewery": "Corsendonck",
+        "color": "dark brown",
+        "vol": "7.50"
+    },
+    {
+        "name": "Cristal Alken",
+        "brewery": "Alken-Maes",
+        "color": "brown",
+        "vol": "5.00"
+    },
+    {
+        "name": "Crom-Pils",
+        "brewery": "Crombé",
+        "color": "brown",
+        "vol": "4.50"
+    },
+    {
+        "name": "Cupido",
+        "brewery": "Bosteels",
+        "color": "amber",
+        "vol": "4.80"
+    },
+    {
+        "name": "Cuvée De L'Ermitage",
+        "brewery": "Alken-Maes",
+        "color": "amber",
+        "vol": "7.80"
+    },
+    {
+        "name": "Cuvée St. Amand",
+        "brewery": "Bavik",
+        "color": "dark golden",
+        "vol": "7.50"
+    },
+    {
+        "name": "De Brouwers van de Dijle",
+        "brewery": "Piedboeuf",
+        "color": "brown",
+        "vol": "5.00"
+    },
+    {
+        "name": "De Koninck",
+        "brewery": "De Koninck",
+        "color": "brown",
+        "vol": "5.00"
+    },
+    {
+        "name": "De Verboden Vrucht",
+        "brewery": "De Kluis",
+        "color": "dark red",
+        "vol": "8.00"
+    },
+    {
+        "name": "Deca",
+        "brewery": "Isebaert",
+        "color": "brown",
+        "vol": "4.50"
+    },
+    {
+        "name": "Dentergems Witbier",
+        "brewery": "Riva",
+        "color": "brown",
+        "vol": "5.00"
+    },
+    {
+        "name": "Dobbel Faro",
+        "brewery": "Vander Linden",
+        "color": "dark brown",
+        "vol": "6.00"
+    },
+    {
+        "name": "Dobbelen Brown",
+        "brewery": "Roman",
+        "color": "brown",
+        "vol": "7.20"
+    },
+    {
+        "name": "Dorppils",
+        "brewery": "R. van Roy en Cie.",
+        "color": "jaune",
+        "vol": "4.00"
+    },
+    {
+        "name": "Dorpsbier",
+        "brewery": "R. van Roy en Cie.",
+        "color": "light brown",
+        "vol": "2.00"
+    },
+    {
+        "name": "Dort Silbrau",
+        "brewery": "Brasserie de Silly",
+        "color": "brown",
+        "vol": "5.70"
+    },
+    {
+        "name": "Double Engien Spéciale",
+        "brewery": "Brasserie de Silly",
+        "color": "amber",
+        "vol": "8.00"
+    },
+    {
+        "name": "Double Floreffe",
+        "brewery": "Lefebvre",
+        "color": "dark",
+        "vol": "6.00"
+    },
+    {
+        "name": "Doublette",
+        "brewery": "Brasserie de Silly",
+        "color": "amber",
+        "vol": "6.50"
+    },
+    {
+        "name": "Dubbel Palm",
+        "brewery": "Palm",
+        "color": "dark amber",
+        "vol": "4.80"
+    },
+    {
+        "name": "Dubbel Wit",
+        "brewery": "De Kroon",
+        "color": "white",
+        "vol": "5.00"
+    },
+    {
+        "name": "Duivel",
+        "brewery": "Vander Linden",
+        "color": "dark brown",
+        "vol": "6.00"
+    },
+    {
+        "name": "Duvel 7",
+        "brewery": "Moortgat",
+        "color": "brown",
+        "vol": "7.00"
+    },
+    {
+        "name": "Duvel 8",
+        "brewery": "Moortgat",
+        "color": "brown",
+        "vol": "8.00"
+    },
+    {
+        "name": "Echte Kriek",
+        "brewery": "Verhaeghe",
+        "color": "red",
+        "vol": "6.20"
+    },
+    {
+        "name": "Elckerlijc",
+        "brewery": "Callewaert",
+        "color": "brown",
+        "vol": "6.50"
+    },
+    {
+        "name": "Eupener Export",
+        "brewery": "Eupener Bierbrauerie",
+        "color": "brown",
+        "vol": "3.50"
+    },
+    {
+        "name": "Eupener Kapuziner Klosterbier",
+        "brewery": "Eupener Bierbrauerie",
+        "color": "dark",
+        "vol": "5.00"
+    },
+    {
+        "name": "Eupener Pils",
+        "brewery": "Eupener Bierbrauerie",
+        "color": "brown",
+        "vol": "4.00"
+    },
+    {
+        "name": "Export",
+        "brewery": "Alken-Maes",
+        "color": "brown",
+        "vol": "5.00"
+    },
+    {
+        "name": "Export",
+        "brewery": "R. van Roy en Cie.",
+        "color": "golden",
+        "vol": "4.00"
+    },
+    {
+        "name": "Export",
+        "brewery": "Verhaeghe",
+        "color": "brown",
+        "vol": "4.50"
+    },
+    {
+        "name": "Export Artois",
+        "brewery": "Artois",
+        "color": "brown",
+        "vol": "5.50"
+    },
+    {
+        "name": "Extra Brown",
+        "brewery": "Verlinden",
+        "color": "brown",
+        "vol": "0.80"
+    },
+    {
+        "name": "Extra Gueuze",
+        "brewery": "Eylenbosch",
+        "color": "golden",
+        "vol": "5.00"
+    },
+    {
+        "name": "Extra Pilsener",
+        "brewery": "Moortgat",
+        "color": "brown",
+        "vol": "5.50"
+    },
+    {
+        "name": "Extra Vieille",
+        "brewery": "Allard & Groetembril",
+        "color": "amber",
+        "vol": "6.00"
+    },
+    {
+        "name": "Facon Export",
+        "brewery": "Facon",
+        "color": "brown",
+        "vol": "4.00"
+    },
+    {
+        "name": "Facon Extra Stout",
+        "brewery": "Facon",
+        "color": "brown",
+        "vol": "7.50"
+    },
+    {
+        "name": "Facon Pils",
+        "brewery": "Facon",
+        "color": "brown",
+        "vol": "5.00"
+    },
+    {
+        "name": "Facon Scotch-Christmas",
+        "brewery": "Facon",
+        "color": "amber",
+        "vol": "7.50"
+    },
+    {
+        "name": "Faro",
+        "brewery": "Lindemans",
+        "color": "brown",
+        "vol": "5.00"
+    },
+    {
+        "name": "Faro",
+        "brewery": "R. van Roy en Cie.",
+        "color": "red-brown",
+        "vol": "4.30"
+    },
+    {
+        "name": "Faro Extra",
+        "brewery": "Eylenbosch",
+        "color": "brown",
+        "vol": "5.00"
+    },
+    {
+        "name": "Faro Pertotale",
+        "brewery": "Frank Boon",
+        "color": "amber",
+        "vol": "6.50"
+    },
+    {
+        "name": "Felix Kriekbier",
+        "brewery": "Clarysse",
+        "color": "red-brown",
+        "vol": "5.20"
+    },
+    {
+        "name": "Felix oud bruin",
+        "brewery": "Clarysse",
+        "color": "brown",
+        "vol": "5.20"
+    },
+    {
+        "name": "Felix speciaal oudenaards",
+        "brewery": "Clarysse",
+        "color": "brown",
+        "vol": "4.60"
+    },
+    {
+        "name": "Festival Gueuze",
+        "brewery": "Eylenbosch",
+        "color": "golden",
+        "vol": "5.00"
+    },
+    {
+        "name": "Forst",
+        "brewery": "Wielemans-Ceuppens",
+        "color": "brown",
+        "vol": "4.75"
+    },
+    {
+        "name": "Framboise",
+        "brewery": "Lindemans",
+        "color": "pink-red",
+        "vol": "6.00"
+    },
+    {
+        "name": "Framboise Belle-Vue",
+        "brewery": "Belle-Vue",
+        "color": "red",
+        "vol": "4.20"
+    },
+    {
+        "name": "Framboise Cantillon",
+        "brewery": "Cantillon",
+        "color": "rosée",
+        "vol": "5.00"
+    },
+    {
+        "name": "Frambozen F. Boon",
+        "brewery": "Frank Boon",
+        "color": "rosée",
+        "vol": "6.50"
+    },
+    {
+        "name": "Frambozenbier",
+        "brewery": "Vander Linden",
+        "color": "red",
+        "vol": "7.00"
+    },
+    {
+        "name": "Frambozenbier St. Louis",
+        "brewery": "Van Honsebrouck",
+        "color": "light red",
+        "vol": "5.50"
+    },
+    {
+        "name": "Frater Ambrosius",
+        "brewery": "Eylenbosch",
+        "color": "pink red",
+        "vol": "5.00"
+    },
+    {
+        "name": "Geuze F. Boon-Mariage Parfait",
+        "brewery": "Frank Boon",
+        "color": "golden",
+        "vol": "6.50"
+    },
+    {
+        "name": "Gildenbier",
+        "brewery": "Haacht",
+        "color": "dark",
+        "vol": "6.70"
+    },
+    {
+        "name": "Ginder-Ale",
+        "brewery": "Martinas",
+        "color": "amber",
+        "vol": "4.70"
+    },
+    {
+        "name": "Golden Campina",
+        "brewery": "Campina",
+        "color": "brown",
+        "vol": "5.00"
+    },
+    {
+        "name": "Golden Kenia",
+        "brewery": "Huyghe",
+        "color": "brown",
+        "vol": "5.00"
+    },
+    {
+        "name": "Gouden Carolus",
+        "brewery": "Het Anker",
+        "color": "amber",
+        "vol": "7.50"
+    },
+    {
+        "name": "Grand Cru Hoegaarden Tripel",
+        "brewery": "De Kluis",
+        "color": "golden",
+        "vol": "7.50"
+    },
+    {
+        "name": "Grimbergen Blond",
+        "brewery": "Alken-Maes",
+        "color": "brown",
+        "vol": "7.00"
+    },
+    {
+        "name": "Grimbergen dubbel",
+        "brewery": "Alken-Maes",
+        "color": "dark",
+        "vol": "6.50"
+    },
+    {
+        "name": "Grimbergen Optimo Bruno",
+        "brewery": "Alken-Maes",
+        "color": "brown",
+        "vol": "10.00"
+    },
+    {
+        "name": "Grimbergen trippel",
+        "brewery": "Alken-Maes",
+        "color": "golden",
+        "vol": "8.60"
+    },
+    {
+        "name": "Gueuze",
+        "brewery": "Lindemans",
+        "color": "golden",
+        "vol": "5.00"
+    },
+    {
+        "name": "Gueuze",
+        "brewery": "Wets",
+        "color": "golden",
+        "vol": "5.50"
+    },
+    {
+        "name": "Gueuze Becasse",
+        "brewery": "Brabrux",
+        "color": "golden",
+        "vol": "4.15"
+    },
+    {
+        "name": "Gueuze Belle-vue",
+        "brewery": "Belle-vue",
+        "color": "golden",
+        "vol": "4.15"
+    },
+    {
+        "name": "Gueuze Belle-vue cuvee",
+        "brewery": "Belle-vue",
+        "color": "golden",
+        "vol": "4.15"
+    },
+    {
+        "name": "Gueuze Cantillon",
+        "brewery": "Cantillon",
+        "color": "golden",
+        "vol": "5.00"
+    },
+    {
+        "name": "Gueuze Caveau",
+        "brewery": "Timmermans",
+        "color": "golden",
+        "vol": "5.50"
+    },
+    {
+        "name": "Gueuze Caves Bruegel",
+        "brewery": "Brabrux",
+        "color": "golden",
+        "vol": "4.15"
+    },
+    {
+        "name": "Gueuze De Neve",
+        "brewery": "De Neve",
+        "color": "golden",
+        "vol": "4.15"
+    },
+    {
+        "name": "Gueuze De Troch",
+        "brewery": "De Troch",
+        "color": "golden",
+        "vol": "5.75"
+    },
+    {
+        "name": "Gueuze Extra Cave St. Pierre",
+        "brewery": "Brabrux",
+        "color": "golden",
+        "vol": "4.15"
+    },
+    {
+        "name": "Gueuze Girardin",
+        "brewery": "Girardin",
+        "color": "golden",
+        "vol": "5.10"
+    },
+    {
+        "name": "Gueuze Lambic",
+        "brewery": "Timmermans",
+        "color": "golden",
+        "vol": "5.50"
+    },
+    {
+        "name": "Gueuze Lambic Jacobins",
+        "brewery": "Bockor (Vanderghinste)",
+        "color": "golden",
+        "vol": "6.00"
+    },
+    {
+        "name": "Gueuze Lambic Mort Subite",
+        "brewery": "De Keersmaeker",
+        "color": "golden",
+        "vol": "5.00"
+    },
+    {
+        "name": "Gueuze Lambic St.-Louis",
+        "brewery": "Van Honsebrouck",
+        "color": "amber-brown",
+        "vol": "5.00"
+    },
+    {
+        "name": "Gueuze Vieux Foudre",
+        "brewery": "Vander Linden",
+        "color": "golden",
+        "vol": "6.00"
+    },
+    {
+        "name": "Gulden draak",
+        "brewery": "Bios",
+        "color": "noire",
+        "vol": "12.00"
+    },
+    {
+        "name": "Haechts Witbier",
+        "brewery": "Haacht",
+        "color": "white",
+        "vol": "4.80"
+    },
+    {
+        "name": "Hapkin",
+        "brewery": "Louwaege",
+        "color": "brown",
+        "vol": "8.50"
+    },
+    {
+        "name": "Helles Lagerbier",
+        "brewery": "Slaghmuylder",
+        "color": "brown",
+        "vol": "4.20"
+    },
+    {
+        "name": "Het Kapittel-abt",
+        "brewery": "Van Eecke",
+        "color": "brown",
+        "vol": "10.00"
+    },
+    {
+        "name": "Het Kapittel-dubbel",
+        "brewery": "Van Eecke",
+        "color": "brown",
+        "vol": "6.00"
+    },
+    {
+        "name": "Het Kapittel-pater",
+        "brewery": "Van Eecke",
+        "color": "brown",
+        "vol": "5.00"
+    },
+    {
+        "name": "Het Kapittel-prior",
+        "brewery": "Van Eecke",
+        "color": "brown",
+        "vol": "7.00"
+    },
+    {
+        "name": "Hoegaarden",
+        "brewery": "De Kluis",
+        "color": "pale",
+        "vol": "5.00"
+    },
+    {
+        "name": "Horse-ale",
+        "brewery": "Piedboeuf",
+        "color": "amber",
+        "vol": "4.90"
+    },
+    {
+        "name": "Ichtegem's oud bruin",
+        "brewery": "Strubbe",
+        "color": "brown",
+        "vol": "4.40"
+    },
+    {
+        "name": "Jack-op Ernest Claes",
+        "brewery": "Brabrux",
+        "color": "amber",
+        "vol": "3.70"
+    },
+    {
+        "name": "Judas",
+        "brewery": "Alken-Maes",
+        "color": "brown",
+        "vol": "8.50"
+    },
+    {
+        "name": "Jupiler",
+        "brewery": "Piedboeuf",
+        "color": "brown",
+        "vol": "5.00"
+    },
+    {
+        "name": "Jupiler N.A.",
+        "brewery": "Piedboeuf",
+        "color": "brown",
+        "vol": "0.50"
+    },
+    {
+        "name": "Kastaar",
+        "brewery": "De Block-Joostens",
+        "color": "light brown",
+        "vol": "7.00"
+    },
+    {
+        "name": "Kasteelbier Ingelmunster",
+        "brewery": "Van Honsebrouck",
+        "color": "brown",
+        "vol": "11.00"
+    },
+    {
+        "name": "Kerstbier",
+        "brewery": "Slaghmuylder",
+        "color": "brown",
+        "vol": "5.20"
+    },
+    {
+        "name": "Kerstbier",
+        "brewery": "Van Den Bossche",
+        "color": "brown",
+        "vol": "5.20"
+    },
+    {
+        "name": "Ketje",
+        "brewery": "Artois",
+        "color": "brown",
+        "vol": "6.40"
+    },
+    {
+        "name": "Kob Pilsener",
+        "brewery": "De Keersmaeker",
+        "color": "brown",
+        "vol": "4.75"
+    },
+    {
+        "name": "Koningsbrau",
+        "brewery": "Dendria",
+        "color": "brown",
+        "vol": "5.10"
+    },
+    {
+        "name": "Kriek",
+        "brewery": "Lindemans",
+        "color": "red",
+        "vol": "5.50"
+    },
+    {
+        "name": "Kriek",
+        "brewery": "R. van Roy en Cie.",
+        "color": "red",
+        "vol": "4.30"
+    },
+    {
+        "name": "Kriek",
+        "brewery": "Vander Linden",
+        "color": "red",
+        "vol": "6.50"
+    },
+    {
+        "name": "Kriek",
+        "brewery": "Wets",
+        "color": "red",
+        "vol": "6.00"
+    },
+    {
+        "name": "Kriek Belle-Vue",
+        "brewery": "Belle-Vue",
+        "color": "red",
+        "vol": "4.20"
+    },
+    {
+        "name": "Kriek Belle-Vue Cuvee",
+        "brewery": "Belle-Vue",
+        "color": "red",
+        "vol": "4.20"
+    },
+    {
+        "name": "Kriek Cantillon",
+        "brewery": "Cantillon",
+        "color": "red",
+        "vol": "5.00"
+    },
+    {
+        "name": "Kriek Caves Bruegel",
+        "brewery": "Brabrux",
+        "color": "red",
+        "vol": "4.20"
+    },
+    {
+        "name": "Kriek De Neve",
+        "brewery": "De Neve",
+        "color": "red",
+        "vol": "4.20"
+    },
+    {
+        "name": "Kriek De Troch",
+        "brewery": "De Troch",
+        "color": "red",
+        "vol": "5.75"
+    },
+    {
+        "name": "Kriek F. Boon",
+        "brewery": "Frank Boon",
+        "color": "red",
+        "vol": "6.50"
+    },
+    {
+        "name": "Kriek Girardin",
+        "brewery": "Girardin",
+        "color": "red",
+        "vol": "5.10"
+    },
+    {
+        "name": "Kriek Lambic",
+        "brewery": "Eylenbosch",
+        "color": "red",
+        "vol": "5.00"
+    },
+    {
+        "name": "Kriek Lambic",
+        "brewery": "Timmermans",
+        "color": "red",
+        "vol": "5.50"
+    },
+    {
+        "name": "Kriek Lambic Jacobins",
+        "brewery": "Bockor (Vanderghinste)",
+        "color": "red",
+        "vol": "6.00"
+    },
+    {
+        "name": "Kriek Lambic Mort Subite",
+        "brewery": "De Keersmaeker",
+        "color": "red",
+        "vol": "5.00"
+    },
+    {
+        "name": "Kriek Lambic St. Louis",
+        "brewery": "Van Honsebrouck",
+        "color": "red",
+        "vol": "5.50"
+    },
+    {
+        "name": "Kriek Sherry Poesy Old Beersel",
+        "brewery": "Vandervelden",
+        "color": "red",
+        "vol": "7.00"
+    },
+    {
+        "name": "Kriekenbier",
+        "brewery": "Sint-Jozef",
+        "color": "red",
+        "vol": "4.00"
+    },
+    {
+        "name": "Kronenbourg",
+        "brewery": "Alken-Maes",
+        "color": "brown",
+        "vol": "4.00"
+    },
+    {
+        "name": "Kronenbourg light",
+        "brewery": "Alken-Maes",
+        "color": "brown",
+        "vol": "2.90"
+    },
+    {
+        "name": "Kruger Export",
+        "brewery": "Piedboeuf",
+        "color": "brown",
+        "vol": "4.50"
+    },
+    {
+        "name": "Kruger Pils",
+        "brewery": "Piedboeuf",
+        "color": "brown",
+        "vol": "5.00"
+    },
+    {
+        "name": "La Chouffe",
+        "brewery": "Brasserie d'Achouffe",
+        "color": "amber",
+        "vol": "6.80"
+    },
+    {
+        "name": "La Gauloise 6",
+        "brewery": "Brasserie du Bocq",
+        "color": "brown",
+        "vol": "6.40"
+    },
+    {
+        "name": "La Gauloise 8",
+        "brewery": "Brasserie du Bocq",
+        "color": "brown",
+        "vol": "8.00"
+    },
+    {
+        "name": "La Gaumaise Blonde",
+        "brewery": "Maire",
+        "color": "amber",
+        "vol": "4.00"
+    },
+    {
+        "name": "La Meilleure Floreffe",
+        "brewery": "Lefebvre",
+        "color": "dark",
+        "vol": "8.00"
+    },
+    {
+        "name": "La Vieille Bon-Secours",
+        "brewery": "Voisin",
+        "color": "amber",
+        "vol": "8.00"
+    },
+    {
+        "name": "Lambic",
+        "brewery": "Eylenbosch",
+        "color": "golden",
+        "vol": "5.00"
+    },
+    {
+        "name": "Lambiek",
+        "brewery": "Vander Linden",
+        "color": "golden",
+        "vol": "6.00"
+    },
+    {
+        "name": "Lambik Girardin-jonge",
+        "brewery": "Girardin",
+        "color": "golden",
+        "vol": "5.10"
+    },
+    {
+        "name": "Lambik Girardin-Kriek",
+        "brewery": "Girardin",
+        "color": "red",
+        "vol": "5.10"
+    },
+    {
+        "name": "Lambik Girardin-oude",
+        "brewery": "Girardin",
+        "color": "golden",
+        "vol": "5.10"
+    },
+    {
+        "name": "Lamot Pilsor",
+        "brewery": "Piedboeuf",
+        "color": "brown",
+        "vol": "5.00"
+    },
+    {
+        "name": "Liefmans Goudenband",
+        "brewery": "Liefmans",
+        "color": "dark brown",
+        "vol": "6.50"
+    },
+    {
+        "name": "Liefmans Kriek",
+        "brewery": "Liefmans",
+        "color": "red-brown",
+        "vol": "7.20"
+    },
+    {
+        "name": "Liefmans oud bruin",
+        "brewery": "Liefmans",
+        "color": "dark brown",
+        "vol": "5.20"
+    },
+    {
+        "name": "Loburg",
+        "brewery": "Artois",
+        "color": "brown",
+        "vol": "5.20"
+    },
+    {
+        "name": "Loebas",
+        "brewery": "Callewaert",
+        "color": "brown",
+        "vol": "8.00"
+    },
+    {
+        "name": "Loteling donker",
+        "brewery": "Vieille-Villers",
+        "color": "dark",
+        "vol": "8.00"
+    },
+    {
+        "name": "Loteling licht",
+        "brewery": "Vieille-Villers",
+        "color": "light brown",
+        "vol": "8.00"
+    },
+    {
+        "name": "Lowie Kators/Malmédy brown",
+        "brewery": "Brasserie d'Achouffe",
+        "color": "brown",
+        "vol": "8.00"
+    },
+    {
+        "name": "Lucifer",
+        "brewery": "Riva",
+        "color": "brown",
+        "vol": "8.50"
+    },
+    {
+        "name": "Luxem",
+        "brewery": "Maire",
+        "color": "amber",
+        "vol": "5.50"
+    },
+    {
+        "name": "Maes Pils",
+        "brewery": "Maes",
+        "color": "light",
+        "vol": "5.10"
+    },
+    {
+        "name": "Mai-Bock",
+        "brewery": "Piedboeuf",
+        "color": "brown",
+        "vol": "6.10"
+    },
+    {
+        "name": "Malmédy brown",
+        "brewery": "Brasserie d'Achouffe",
+        "color": "brown",
+        "vol": "8.00"
+    },
+    {
+        "name": "Maredsesous 6",
+        "brewery": "Moortgat",
+        "color": "brown",
+        "vol": "7.50"
+    },
+    {
+        "name": "Maredsesous 8",
+        "brewery": "Moortgat",
+        "color": "dark brown",
+        "vol": "8.20"
+    },
+    {
+        "name": "Maredsesous 9",
+        "brewery": "Moortgat",
+        "color": "dark brown",
+        "vol": "8.90"
+    },
+    {
+        "name": "Méértzen bier",
+        "brewery": "Contreras",
+        "color": "amber",
+        "vol": "5.20"
+    },
+    {
+        "name": "McEwan's Christmas Ale",
+        "brewery": "Piedboeuf",
+        "color": "dark",
+        "vol": "8.35"
+    },
+    {
+        "name": "McEwan's Scotch Ale",
+        "brewery": "Piedboeuf",
+        "color": "dark",
+        "vol": "7.20"
+    },
+    {
+        "name": "Mechelschen Bruynen",
+        "brewery": "Het Anker",
+        "color": "brown",
+        "vol": "6.50"
+    },
+    {
+        "name": "Mosel Bier",
+        "brewery": "Van Steenberge",
+        "color": "amber",
+        "vol": "5.20"
+    },
+    {
+        "name": "Myn's pils",
+        "brewery": "Brasserie de Silly",
+        "color": "brown",
+        "vol": "5.00"
+    },
+    {
+        "name": "Napoleon",
+        "brewery": "De Smedt",
+        "color": "dark",
+        "vol": "6.50"
+    },
+    {
+        "name": "Neyt Export",
+        "brewery": "Neyt",
+        "color": "brown",
+        "vol": "5.00"
+    },
+    {
+        "name": "Neyt Pils",
+        "brewery": "Neyt",
+        "color": "brown",
+        "vol": "5.00"
+    },
+    {
+        "name": "Newton Apple",
+        "brewery": "Lefèbvre",
+        "color": "white",
+        "vol": "3.50"
+    },
+    {
+        "name": "Nostradamus",
+        "brewery": "Van Steenberge",
+        "color": "brown",
+        "vol": "7.20"
+    },
+    {
+        "name": "Nounou",
+        "brewery": "Piraux",
+        "color": "amber",
+        "vol": "8.00"
+    },
+    {
+        "name": "Oerbier",
+        "brewery": "De Dolle Brouwers",
+        "color": "red",
+        "vol": "7.50"
+    },
+    {
+        "name": "Ops-ale",
+        "brewery": "Sint-Jozef",
+        "color": "pale",
+        "vol": "5.20"
+    },
+    {
+        "name": "Orval",
+        "brewery": "Brasserie d'Orval",
+        "color": "amber",
+        "vol": "6.20"
+    },
+    {
+        "name": "Oud Bruin",
+        "brewery": "Facon",
+        "color": "brown",
+        "vol": "5.00"
+    },
+    {
+        "name": "Oud Kriekenbier",
+        "brewery": "Crombé",
+        "color": "red",
+        "vol": "6.20"
+    },
+    {
+        "name": "Oud Zottegems bier",
+        "brewery": "Crombé",
+        "color": "brown",
+        "vol": "6.50"
+    },
+    {
+        "name": "Ouden Bruin",
+        "brewery": "Facon",
+        "color": "brown",
+        "vol": "2.00"
+    },
+    {
+        "name": "Ouden Tripel",
+        "brewery": "Bockor (Vanderghinste)",
+        "color": "dark brown",
+        "vol": "5.80"
+    },
+    {
+        "name": "Oudenaards Bruin",
+        "brewery": "Cnudde",
+        "color": "brown",
+        "vol": "5.00"
+    },
+    {
+        "name": "Paasbier",
+        "brewery": "Slaghmuylder",
+        "color": "brown",
+        "vol": "5.20"
+    },
+    {
+        "name": "Paling",
+        "brewery": "Eylenbosch",
+        "color": "brown",
+        "vol": "8.00"
+    },
+    {
+        "name": "Pater Brown",
+        "brewery": "Haacht",
+        "color": "brown",
+        "vol": "1.40"
+    },
+    {
+        "name": "Pater Lieven",
+        "brewery": "Van Den Bossche",
+        "color": "amber",
+        "vol": "5.40"
+    },
+    {
+        "name": "Pauwel Kwak",
+        "brewery": "Bosteels",
+        "color": "light brown",
+        "vol": "9.50"
+    },
+    {
+        "name": "Pax-pils",
+        "brewery": "Sint-Jozef",
+        "color": "palen",
+        "vol": "5.10"
+    },
+    {
+        "name": "Peter Benoit",
+        "brewery": "Het Sas/Leroy",
+        "color": "brown",
+        "vol": "6.00"
+    },
+    {
+        "name": "Petrus",
+        "brewery": "Bavik",
+        "color": "dark brown",
+        "vol": "4.50"
+    },
+    {
+        "name": "Pick-up",
+        "brewery": "Walrave",
+        "color": "brown",
+        "vol": "4.60"
+    },
+    {
+        "name": "Pils Artisanale",
+        "brewery": "Lefebvre",
+        "color": "brown",
+        "vol": "5.00"
+    },
+    {
+        "name": "Pilsen bleek-bruin",
+        "brewery": "Facon",
+        "color": "light brown",
+        "vol": "2.00"
+    },
+    {
+        "name": "Pony-Stout",
+        "brewery": "Bavik",
+        "color": "dark brown",
+        "vol": "4.50"
+    },
+    {
+        "name": "Poperings Hommelbier",
+        "brewery": "Van Eecke",
+        "color": "brown",
+        "vol": "6.00"
+    },
+    {
+        "name": "Postel Abdijbier",
+        "brewery": "Campina",
+        "color": "dark",
+        "vol": "7.50"
+    },
+    {
+        "name": "Primus Haacht Pils",
+        "brewery": "Haacht",
+        "color": "brown",
+        "vol": "5.00"
+    },
+    {
+        "name": "Prosit",
+        "brewery": "Bosteels",
+        "color": "brown",
+        "vol": "4.80"
+    },
+    {
+        "name": "Punch Beer",
+        "brewery": "Facon",
+        "color": "amber",
+        "vol": "8.00"
+    },
+    {
+        "name": "Raf Export",
+        "brewery": "Contreras",
+        "color": "brown",
+        "vol": "5.00"
+    },
+    {
+        "name": "Redor Pils",
+        "brewery": "Dupont",
+        "color": "brown",
+        "vol": "5.00"
+    },
+    {
+        "name": "Reinbrau",
+        "brewery": "Alken-Maes",
+        "color": "brown",
+        "vol": "4.00"
+    },
+    {
+        "name": "Riva 2000",
+        "brewery": "Riva",
+        "color": "brown",
+        "vol": "6.00"
+    },
+    {
+        "name": "Riva Pils",
+        "brewery": "Riva",
+        "color": "brown",
+        "vol": "5.00"
+    },
+    {
+        "name": "Riva Triple",
+        "brewery": "Riva",
+        "color": "amber",
+        "vol": "6.75"
+    },
+    {
+        "name": "Rodal",
+        "brewery": "De Neve",
+        "color": "brown",
+        "vol": "3.80"
+    },
+    {
+        "name": "Rodark",
+        "brewery": "Riva",
+        "color": "dark",
+        "vol": "5.00"
+    },
+    {
+        "name": "Rodea Gueuze",
+        "brewery": "Eylenbosch",
+        "color": "golden",
+        "vol": "5.00"
+    },
+    {
+        "name": "Rodea Kriek",
+        "brewery": "Eylenbosch",
+        "color": "red",
+        "vol": "5.00"
+    },
+    {
+        "name": "Rodenbach",
+        "brewery": "Rodenbach",
+        "color": "dark",
+        "vol": "4.60"
+    },
+    {
+        "name": "Rodenbach Grand Cru",
+        "brewery": "Rodenbach",
+        "color": "dark",
+        "vol": "5.10"
+    },
+    {
+        "name": "Roman Oudenaards",
+        "brewery": "Roman",
+        "color": "brown",
+        "vol": "5.00"
+    },
+    {
+        "name": "Romy Luxe",
+        "brewery": "Roman",
+        "color": "brown",
+        "vol": "5.60"
+    },
+    {
+        "name": "Romy Pils",
+        "brewery": "Roman",
+        "color": "brown",
+        "vol": "5.20"
+    },
+    {
+        "name": "Royal Ale",
+        "brewery": "R. van Roy en Cie.",
+        "color": "brown",
+        "vol": "5.10"
+    },
+    {
+        "name": "Safir",
+        "brewery": "Dendria",
+        "color": "brown",
+        "vol": "4.70"
+    },
+    {
+        "name": "Saint-Hubert Blonde",
+        "brewery": "Maire",
+        "color": "brown",
+        "vol": "6.50"
+    },
+    {
+        "name": "Saison",
+        "brewery": "Dupont",
+        "color": "amber",
+        "vol": "5.00"
+    },
+    {
+        "name": "Saison 1900",
+        "brewery": "Lefebvre",
+        "color": "amber",
+        "vol": "5.00"
+    },
+    {
+        "name": "Saison de Pipaix",
+        "brewery": "Brasserie a Vapeur",
+        "color": "amber",
+        "vol": "5.00"
+    },
+    {
+        "name": "Saison de Silly",
+        "brewery": "Brasserie de Silly",
+        "color": "amber",
+        "vol": "5.00"
+    },
+    {
+        "name": "Saison Regal",
+        "brewery": "Brasserie du Bocq",
+        "color": "amber",
+        "vol": "5.20"
+    },
+    {
+        "name": "Salvator",
+        "brewery": "R. van Roy en Cie.",
+        "color": "dark brown",
+        "vol": "7.50"
+    },
+    {
+        "name": "Sanctus",
+        "brewery": "Moortgat",
+        "color": "dark brown",
+        "vol": "7.00"
+    },
+    {
+        "name": "Sas Export",
+        "brewery": "Het Sas/Leroy",
+        "color": "brown",
+        "vol": "4.50"
+    },
+    {
+        "name": "Sas Pils",
+        "brewery": "Het Sas/Leroy",
+        "color": "brown",
+        "vol": "4.50"
+    },
+    {
+        "name": "Sasbräu",
+        "brewery": "Het Sas/Leroy",
+        "color": "brown",
+        "vol": "6.00"
+    },
+    {
+        "name": "Scotch",
+        "brewery": "Wielemans-Ceuppens",
+        "color": "dark",
+        "vol": "7.50"
+    },
+    {
+        "name": "Scotch de Silly",
+        "brewery": "Brasserie de Silly",
+        "color": "dark brown",
+        "vol": "7.70"
+    },
+    {
+        "name": "Seule",
+        "brewery": "Slaghmuylder",
+        "color": "amber",
+        "vol": "5.70"
+    },
+    {
+        "name": "Sezoens",
+        "brewery": "Martens",
+        "color": "brown",
+        "vol": "6.00"
+    },
+    {
+        "name": "Skipper Ale",
+        "brewery": "Campina",
+        "color": "amber",
+        "vol": "5.00"
+    },
+    {
+        "name": "Slag Lagerbier",
+        "brewery": "Slaghmuylder",
+        "color": "brown",
+        "vol": "4.70"
+    },
+    {
+        "name": "Sloeber",
+        "brewery": "Roman",
+        "color": "brown",
+        "vol": "7.00"
+    },
+    {
+        "name": "Spanik Gueuze",
+        "brewery": "Eylenbosch",
+        "color": "golden",
+        "vol": "5.00"
+    },
+    {
+        "name": "Sparta Pils",
+        "brewery": "Bios",
+        "color": "pale",
+        "vol": "5.00"
+    },
+    {
+        "name": "Special Block 6",
+        "brewery": "De Block-Joostens",
+        "color": "red-brown",
+        "vol": "5.50"
+    },
+    {
+        "name": "Special Blond",
+        "brewery": "Verlinden",
+        "color": "brown",
+        "vol": "0.80"
+    },
+    {
+        "name": "Special De Ryck",
+        "brewery": "De Ryck",
+        "color": "brown",
+        "vol": "4.50"
+    },
+    {
+        "name": "Special Katje",
+        "brewery": "Het Sas/Leroy",
+        "color": "amber",
+        "vol": "6.00"
+    },
+    {
+        "name": "Special Roman",
+        "brewery": "Roman",
+        "color": "brown",
+        "vol": "5.50"
+    },
+    {
+        "name": "Speciale Aerts",
+        "brewery": "Palm",
+        "color": "amber",
+        "vol": "4.80"
+    },
+    {
+        "name": "Speciale Baf",
+        "brewery": "De Smedt",
+        "color": "amber",
+        "vol": "5.00"
+    },
+    {
+        "name": "Speciale Neval",
+        "brewery": "De Neve",
+        "color": "amber",
+        "vol": "3.70"
+    },
+    {
+        "name": "Speciale Op-Ale",
+        "brewery": "De Smedt",
+        "color": "amber",
+        "vol": "5.00"
+    },
+    {
+        "name": "Speciale Palm",
+        "brewery": "Palm",
+        "color": "amber",
+        "vol": "4.50"
+    },
+    {
+        "name": "Speciale Stop",
+        "brewery": "Bavik",
+        "color": "amber",
+        "vol": "4.50"
+    },
+    {
+        "name": "St. Benedict",
+        "brewery": "De Kluis",
+        "color": "dark red",
+        "vol": "6.50"
+    },
+    {
+        "name": "St. Feuillien",
+        "brewery": "Brasserie du Bocq",
+        "color": "brown",
+        "vol": "6.40"
+    },
+    {
+        "name": "St. Feuillien brown",
+        "brewery": "Friart",
+        "color": "brown",
+        "vol": "6.50"
+    },
+    {
+        "name": "St. Feuillien Brown",
+        "brewery": "Friart",
+        "color": "brown",
+        "vol": "6.50"
+    },
+    {
+        "name": "St. Sixtus Abdij Abt",
+        "brewery": "Sint-Bernardus",
+        "color": "dark",
+        "vol": "10.40"
+    },
+    {
+        "name": "St. Sixtus Abdij Pater",
+        "brewery": "Sint-Bernardus",
+        "color": "dark",
+        "vol": "7.10"
+    },
+    {
+        "name": "St. Sixtus Abdij Prior",
+        "brewery": "Sint-Bernardus",
+        "color": "dark",
+        "vol": "8.30"
+    },
+    {
+        "name": "Star Brown",
+        "brewery": "Haacht",
+        "color": "brown",
+        "vol": "0.40"
+    },
+    {
+        "name": "Steenbrugge Dubbel",
+        "brewery": "De Gouden Boom",
+        "color": "amber",
+        "vol": "6.50"
+    },
+    {
+        "name": "Steendonk",
+        "brewery": "Palm",
+        "color": "white",
+        "vol": "4.90"
+    },
+    {
+        "name": "Stella Artois",
+        "brewery": "Artois",
+        "color": "brown",
+        "vol": "5.75"
+    },
+    {
+        "name": "Stella Artois light",
+        "brewery": "Artois",
+        "color": "brown",
+        "vol": "3.50"
+    },
+    {
+        "name": "Ster Ale",
+        "brewery": "Sterkens",
+        "color": "amber",
+        "vol": "4.70"
+    },
+    {
+        "name": "Ster Christmas",
+        "brewery": "Sterkens",
+        "color": "dark amber",
+        "vol": "6.30"
+    },
+    {
+        "name": "Stille Nacht",
+        "brewery": "De Dolle Brouwers",
+        "color": "red-brown",
+        "vol": "9.00"
+    },
+    {
+        "name": "Straffe Hendrik",
+        "brewery": "Straffe Hendrik",
+        "color": "brown",
+        "vol": "7.50"
+    },
+    {
+        "name": "Stropken Grand Cru",
+        "brewery": "Slaghmuylder",
+        "color": "amber",
+        "vol": "7.00"
+    },
+    {
+        "name": "Super",
+        "brewery": "Voisin",
+        "color": "amber",
+        "vol": "4.50"
+    },
+    {
+        "name": "Super 64",
+        "brewery": "Brasserie de Silly",
+        "color": "amber",
+        "vol": "5.30"
+    },
+    {
+        "name": "Super Pils",
+        "brewery": "Bavik",
+        "color": "brown",
+        "vol": "4.50"
+    },
+    {
+        "name": "Super Pils",
+        "brewery": "Strubbe",
+        "color": "brown",
+        "vol": "4.30"
+    },
+    {
+        "name": "Supra",
+        "brewery": "Dendria",
+        "color": "brown",
+        "vol": "4.70"
+    },
+    {
+        "name": "T.V.",
+        "brewery": "R. van Roy en Cie.",
+        "color": "jaune",
+        "vol": "3.30"
+    },
+    {
+        "name": "Toison D'Or",
+        "brewery": "Het Anker",
+        "color": "brown",
+        "vol": "7.00"
+    },
+    {
+        "name": "Tonneke",
+        "brewery": "Contreras",
+        "color": "amber",
+        "vol": "5.00"
+    },
+    {
+        "name": "Tourtel amber",
+        "brewery": "Alken-Maes",
+        "color": "amber",
+        "vol": "0.50"
+    },
+    {
+        "name": "Tourtel brown",
+        "brewery": "Alken-Maes",
+        "color": "brown",
+        "vol": "0.50"
+    },
+    {
+        "name": "Tourtel Brown",
+        "brewery": "Alken-Maes",
+        "color": "brown",
+        "vol": "0.50"
+    },
+    {
+        "name": "Trappistenbier Dubbel",
+        "brewery": "Trappisten",
+        "color": "dark",
+        "vol": "6.30"
+    },
+    {
+        "name": "Trappistenbier Tripel",
+        "brewery": "Trappisten",
+        "color": "amber",
+        "vol": "8.10"
+    },
+    {
+        "name": "Trappistenbier Westvleteren Abt",
+        "brewery": "Sint-Sixtusabdij",
+        "color": "dark red",
+        "vol": "10.50"
+    },
+    {
+        "name": "Trappistenbier Westvleteren Extra",
+        "brewery": "Sint-Sixtusabdij",
+        "color": "dark red",
+        "vol": "8.50"
+    },
+    {
+        "name": "Trappistenbier Westvleteren Special",
+        "brewery": "Sint-Sixtusabdij",
+        "color": "dark red",
+        "vol": "6.20"
+    },
+    {
+        "name": "Trappistes Rochefort 6",
+        "brewery": "Notre Dame St.-Remy",
+        "color": "brown",
+        "vol": "7.50"
+    },
+    {
+        "name": "Trappistes Rochefort 8",
+        "brewery": "Notre Dame St.-Remy",
+        "color": "brown",
+        "vol": "9.20"
+    },
+    {
+        "name": "Trappistes Rochefort 10",
+        "brewery": "Notre Dame St.-Remy",
+        "color": "brown",
+        "vol": "11.30"
+    },
+    {
+        "name": "Triple Floreffe",
+        "brewery": "Lefebvre",
+        "color": "amber",
+        "vol": "8.00"
+    },
+    {
+        "name": "Triple Moine",
+        "brewery": "Brasserie du Bocq",
+        "color": "brown",
+        "vol": "7.20"
+    },
+    {
+        "name": "Triple Villers",
+        "brewery": "Vieille-Villers",
+        "color": "amber",
+        "vol": "8.90"
+    },
+    {
+        "name": "Ulricher Pils",
+        "brewery": "Girardin",
+        "color": "brown",
+        "vol": "5.00"
+    },
+    {
+        "name": "Upper 19",
+        "brewery": "R. van Roy en Cie.",
+        "color": "brown",
+        "vol": "7.50"
+    },
+    {
+        "name": "Urtyp",
+        "brewery": "Piedboeuf",
+        "color": "brown",
+        "vol": "6.10"
+    },
+    {
+        "name": "Vedett",
+        "brewery": "Moortgat",
+        "color": "brown",
+        "vol": "5.50"
+    },
+    {
+        "name": "Vera Pils",
+        "brewery": "Verhaeghe",
+        "color": "brown",
+        "vol": "4.80"
+    },
+    {
+        "name": "Vichtenaar",
+        "brewery": "Verhaeghe",
+        "color": "dark brown",
+        "vol": "4.50"
+    },
+    {
+        "name": "Vieille Saison",
+        "brewery": "Voisin",
+        "color": "amber",
+        "vol": "5.50"
+    },
+    {
+        "name": "Vieille Villers",
+        "brewery": "Vieille-Villers",
+        "color": "dark",
+        "vol": "8.00"
+    },
+    {
+        "name": "Vieux Bruges Kriek",
+        "brewery": "Van Honsebrouck",
+        "color": "red",
+        "vol": "5.00"
+    },
+    {
+        "name": "Vieux-Temps",
+        "brewery": "St. Guibert",
+        "color": "amber",
+        "vol": "4.60"
+    },
+    {
+        "name": "Vlaams Wit/Blanch-ke",
+        "brewery": "Van Honsebrouck",
+        "color": "white",
+        "vol": "4.60"
+    },
+    {
+        "name": "Vlaskop",
+        "brewery": "Strubbe",
+        "color": "white",
+        "vol": "5.50"
+    },
+    {
+        "name": "Vondel",
+        "brewery": "Riva",
+        "color": "dark",
+        "vol": "8.50"
+    },
+    {
+        "name": "Watneys Christmas",
+        "brewery": "Alken-Maes",
+        "color": "dark",
+        "vol": "7.70"
+    },
+    {
+        "name": "Watneys Pale-Ale",
+        "brewery": "Alken-Maes",
+        "color": "light brown",
+        "vol": "5.40"
+    },
+    {
+        "name": "Watneys Scotch",
+        "brewery": "Alken-Maes",
+        "color": "dark",
+        "vol": "8.00"
+    },
+    {
+        "name": "Watneys Stout",
+        "brewery": "Alken-Maes",
+        "color": "dark",
+        "vol": "3.60"
+    },
+    {
+        "name": "Westmalle Trappist Dubbel",
+        "brewery": "Westmalle",
+        "color": "light brown",
+        "vol": "7.00"
+    },
+    {
+        "name": "Westmalle Trappist Tripel",
+        "brewery": "Westmalle",
+        "color": "golden",
+        "vol": "9.50"
+    },
+    {
+        "name": "Westmalle Extra",
+        "brewery": "Westmalle",
+        "color": "golden",
+        "vol": "5.00"
+    },
+    {
+        "name": "Westvleteren Acht Blue Cap",
+        "brewery": "Sint-Sixtus",
+        "color": "brown",
+        "vol": "8.00"
+    },
+    {
+        "name": "Wiel's",
+        "brewery": "Wielemans-Ceuppens",
+        "color": "brown",
+        "vol": "5.25"
+    },
+    {
+        "name": "Wieze Pils",
+        "brewery": "R. van Roy en Cie.",
+        "color": "yellow",
+        "vol": "4.70"
+    },
+    {
+        "name": "Witkap Pater/Dubbele Pater",
+        "brewery": "Slaghmuylder",
+        "color": "brown",
+        "vol": "5.40"
+    },
+    {
+        "name": "Witkap Pater/Stimulo",
+        "brewery": "Slaghmuylder",
+        "color": "brown",
+        "vol": "5.40"
+    },
+    {
+        "name": "Witkap Pater/Tripel",
+        "brewery": "Slaghmuylder",
+        "color": "brown",
+        "vol": "6.50"
+    },
+    {
+        "name": "Wonderbier",
+        "brewery": "Moortgat",
+        "color": "brown",
+        "vol": "3.50"
+    },
+    {
+        "name": "X-Mas",
+        "brewery": "R. van Roy en Cie.",
+        "color": "dark brown",
+        "vol": "7.50"
+    },
+    {
+        "name": "XMas 8",
+        "brewery": "Brasserie du Bocq",
+        "color": "brown",
+        "vol": "8.00"
+    },
+    {
+        "name": "Zottegems",
+        "brewery": "Cromb",
+        "color": "dark",
+        "vol": "4.50"
+    },
+    {
+        "name": "Zulte oud bruin",
+        "brewery": "Alken-Maes",
+        "color": "brown",
+        "vol": "4.00"
+    }
+]
